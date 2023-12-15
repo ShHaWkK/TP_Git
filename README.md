@@ -10,4 +10,4 @@ This repository is a school tp
 
 - Evaluate your knowledge of basic Git commands and their use
 
-For Thomas Ecaille :blush:
+For Thomas Ecalle :blush:
